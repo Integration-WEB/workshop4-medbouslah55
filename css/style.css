@@ -49,11 +49,55 @@
     justify-content:center;
 
 
+
 }
 .bi-circle-fill{
 color: #f0db01!important;
+
 }
 
 .nav-item{
 margin-left: 6.44rem;
+}
+
+.icon-shape{
+    margin-left: 1.25rem;
+    margin-bottom: 1.625rem!important;
+}
+footer{
+    padding :2.5rem 0;
+    background-color: #e4bc01 !important;
+    display :flex;
+    flex-flow: column;
+    align-items: center;  
+}
+footer span{
+    font-family: "League Gothic";
+    font-size : 1.8rem;
+    color : #31332e;
+}
+.footer-elements{
+    width:7.75rem;
+    display: flex;
+    justify-content: end;
+}
+footer ul li {
+    display: inline;
+    width: 2rem !important;
+    height: 2em;
+}
+
+.socials {
+    background-color: #fff;
+    color : #e4bc01;
+    border-radius: 50%;
+}
+.test{ 
+    margin : 0 0.5rem 0 0.5rem;
+    width: 2rem;
+    height: 2rem;
+    background-color: #fff;
+    color : #e4bc01;
+    border-radius: 50%;
+
 }
